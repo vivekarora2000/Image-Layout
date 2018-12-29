@@ -1,0 +1,24 @@
+body{
+	background-color: #479030
+}
+h1{
+   font-family: 'Roboto', sans-serif;
+   border-bottom: 5px solid #60705B;
+   border-right: 5px solid #60705B;
+   border-left:5px solid #60705B;
+   text-align: center;
+}
+img{
+	width:400px;
+	height: 200px;
+	padding: 15px;
+
+}
+img:hover{
+	cursor: crosshair;
+}
+.container{
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+}
